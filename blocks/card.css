@@ -1,12 +1,4 @@
-.menu__cards {
-    display: flex;
-    flex-wrap: wrap;
-    min-width: 540px;
-    justify-content: center;
-    gap: 100px;
-    padding: 0;
-    margin: 0;
-  }
+
  
  .card {
     list-style-type: none;
